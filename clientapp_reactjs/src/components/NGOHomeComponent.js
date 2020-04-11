@@ -59,7 +59,7 @@ class NGOHomeComponent extends React.Component {
               severity={this.state.severity}
             />
           </Snackbar>
-          <div style={{ padding: 30 }}>
+          <div style={{padding:5}}>
             <Table data={this.state.rows} />
           </div>
         </div>

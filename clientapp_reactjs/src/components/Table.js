@@ -87,7 +87,8 @@ export default function MaterialTableDemo(props) {
   const options = {
     filterType: "chip",
     print: false,
-    selectableRowsHeader: false
+    selectableRowsHeader: false,
+    selectableRows: "none"
   };
 
   return (
