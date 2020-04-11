@@ -12,3 +12,11 @@
   - If the NGO is unclaimed, show a "CLAIM" button against it. If the NGO is claimed, show a button which reads "VIEW PROFILE" against it.
   - Upon clicking on the "CLAIM" button, take me to a form like this: https://www.letsendorse.com/ngoForm (Replicate the fields) and pre-       populate all the 7 fields which already existed. (Make all fields mandatory)
   - Upon filling the form and submitting, change the Claimed/Unclaimed status to Claimed.
+
+### Add Ons:
+  - Api for adding dummy data
+  - Filter based on:
+    - Regrex NGO Name Query
+    - NGO Id
+    - Limits on amount on data returned
+    
